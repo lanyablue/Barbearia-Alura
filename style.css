@@ -116,23 +116,5 @@ form label, form p {
 	margin: 20px 0;
 }
 
-p {       /** valor 1**/
-	color: red;
-}
 
-form p {  /** valor p 1 + 1 = 2 **/
-	color: blue;
-}
-
-.teste {   /** valor 10 **/
-	color: yellow;
-}
-
-p.teste { /** valor 1 + 10 = 11 **/
-	color: orange;
-}
-
-#teste { /** valor 100 **/
-	color: rgb(226, 48, 152);
-}
 
